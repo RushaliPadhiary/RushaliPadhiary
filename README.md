@@ -1,6 +1,6 @@
 ![MasterHead](https://i.pinimg.com/originals/35/f5/91/35f5911b6761ecd292e0ee9b8596b69f.gif)
 <h2 align="center"><p>Hi 👋, I'm Rushali Padhiary</p></h2>
-<h4 align="center"><p>I'm a Cybersecurity Intern and CSE Student.</p></h4>
+<h3 align="center"><p>I'm a Cybersecurity Intern and CSE Student.</p></h3>
 <p>Hobbies: Reading, Sketching, Writing, Oration.</p>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/44/c7/c1/44c7c1f3fbd68b2151c37af5f08198f1.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushalipadhiary&label=Profile%20views&color=0e75b6&style=flat" alt="rushalipadhiary" /> </p>
