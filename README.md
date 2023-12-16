@@ -1,16 +1,15 @@
-[![MasterHead](https://i.pinimg.com/originals/35/f5/91/35f5911b6761ecd292e0ee9b8596b69f.gif)]
+![MasterHead](https://i.pinimg.com/originals/35/f5/91/35f5911b6761ecd292e0ee9b8596b69f.gif)
 <h1 align="center">Hi 👋, I'm Rushali Padhiary</h1>
-<h3 align="center">I'm currently a Cybersecurity Intern and 3rd yr CSE Student. I'm passionate about algorithms and learning new tech developments. Hobbies: Reading, Sketching, Writing, Oration.</h3>
+<h3 align="center"><p>I'm currently a Cybersecurity Intern and 3rd yr CSE Student. I'm passionate about algorithms and learning new tech developments.</p> 
+  <p>Hobbies: Reading, Sketching, Writing, Oration.</p></h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/44/c7/c1/44c7c1f3fbd68b2151c37af5f08198f1.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushalipadhiary&label=Profile%20views&color=0e75b6&style=flat" alt="rushalipadhiary" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rushalipadhiary" alt="rushalipadhiary" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/rpadhiary73295" target="blank"><img src="https://img.shields.io/twitter/follow/rpadhiary73295?logo=twitter&style=for-the-badge" alt="rpadhiary73295" /></a> </p>
 
-- 🌱 I’m currently learning **Python, AI/ML, OWASP**
+- 🌱 I’m currently learning **Python, AI/ML, CyberSecurity**
 
-- 💬 Ask me about **C/C++, Java, SQL, DSA, Web development, Software Engineering**
+- 💬 Ask me about **C/C++, Java, SQL, DSA, Web development, Software Engineering, OWASP**
 
 - 📫 How to reach me **padhiary.rushali@gmail.com**
 
