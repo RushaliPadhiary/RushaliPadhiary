@@ -1,7 +1,7 @@
 ![MasterHead](https://i.pinimg.com/originals/35/f5/91/35f5911b6761ecd292e0ee9b8596b69f.gif)
-<h1 align="center">Hi 👋, I'm Rushali Padhiary</h1>
-<h3 align="center"><p>I'm currently a Cybersecurity Intern and 3rd yr CSE Student. I'm passionate about algorithms and learning new tech developments.</p> 
-  <p>Hobbies: Reading, Sketching, Writing, Oration.</p></h3>
+<h2 align="center"><p>Hi 👋, I'm Rushali Padhiary</p></h2>
+<h4 align="center"><p>I'm a Cybersecurity Intern and CSE Student.</p></h4>
+<p>Hobbies: Reading, Sketching, Writing, Oration.</p>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/44/c7/c1/44c7c1f3fbd68b2151c37af5f08198f1.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushalipadhiary&label=Profile%20views&color=0e75b6&style=flat" alt="rushalipadhiary" /> </p>
 
@@ -47,3 +47,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rushalipadhiary&show_icons=true&locale=en" alt="rushalipadhiary" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rushalipadhiary&" alt="rushalipadhiary" /></p>
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
