@@ -48,4 +48,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rushalipadhiary&" alt="rushalipadhiary" /></p>
 <img align="left" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
