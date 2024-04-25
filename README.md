@@ -45,4 +45,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rushalipadhiary&show_icons=true&locale=en" alt="rushalipadhiary" /></p>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=RushaliPadhiary&theme=tokyonight" alt="GitHub Streak" /></a>
-<img src="https://streak-stats.demolab.com?user=RushaliPadhiary&theme=tokyonight" width="400">
+
