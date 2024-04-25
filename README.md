@@ -1,15 +1,14 @@
 ![MasterHead](https://i.pinimg.com/originals/35/f5/91/35f5911b6761ecd292e0ee9b8596b69f.gif)
 <h2 align="center"><p>Hi 👋, I'm Rushali Padhiary</p></h2>
-<h3 align="center"><p>I'm a Cybersecurity Intern and CSE Student.</p></h3>
-<p>Hobbies: Reading, Sketching, Writing, Oration.</p>
+<h3 align="center"><p>I'm a final yr CSE Student.</p></h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/44/c7/c1/44c7c1f3fbd68b2151c37af5f08198f1.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushalipadhiary&label=Profile%20views&color=0e75b6&style=flat" alt="rushalipadhiary" /> </p>
 
-<p align="left"> <a href="https://twitter.com/rpadhiary73295" target="blank"><img src="https://img.shields.io/twitter/follow/rpadhiary73295?logo=twitter&style=for-the-badge" alt="rpadhiary73295" /></a> </p>
+<p align="left"> <a href="https://twitter.com/R_Padhiary" target="blank"><img src="https://img.shields.io/twitter/follow/rpadhiary73295?logo=twitter&style=for-the-badge" alt="rpadhiary73295" /></a> </p>
 
-- 🌱 I’m currently learning **Python, AI/ML, OWASP**
+- 🌱 I’m currently learning **Python, AI/ML, Data Structures and Algorithms**
 
-- 💬 Ask me about **C/C++, Java, SQL, DSA, Web development, Software Engineering**
+- 💬 Ask me about **C/C++, Java, Python, SQL, DSA, Web development, Software Engineering, AI/ML**
 
 - 📫 How to reach me **padhiary.rushali@gmail.com**
 
@@ -19,7 +18,7 @@
 <p align="left">
 <a href="https://codepen.io/rushali-padhiary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="rushali-padhiary" height="30" width="40" /></a>
 <a href="https://dev.to/r_ushali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="r_ushali" height="30" width="40" /></a>
-<a href="https://twitter.com/rpadhiary73295" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rpadhiary73295" height="30" width="40" /></a>
+<a href="https://twitter.com/R_Padhiary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rpadhiary73295" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rushalipadhiary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rushalipadhiary" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/23111080" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23111080" height="30" width="40" /></a>
 <a href="https://codesandbox.com/padhiary_rushali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="padhiary_rushali" height="30" width="40" /></a>
@@ -45,5 +44,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rushalipadhiary&show_icons=true&locale=en&layout=compact" alt="rushalipadhiary" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rushalipadhiary&show_icons=true&locale=en" alt="rushalipadhiary" /></p>
-
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=RushaliPadhiary&theme=tokyonight" alt="GitHub Streak" /></a>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rushalipadhiary&" alt="rushalipadhiary" /></p>
+<img src="https://streak-stats.demolab.com?user=RushaliPadhiary&theme=tokyonight" width="400">
