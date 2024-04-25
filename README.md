@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/44/c7/c1/44c7c1f3fbd68b2151c37af5f08198f1.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushalipadhiary&label=Profile%20views&color=0e75b6&style=flat" alt="rushalipadhiary" /> </p>
 
-<p align="left"> <a href="https://twitter.com/R_Padhiary" target="blank"><img src="https://img.shields.io/twitter/follow/rpadhiary73295?logo=twitter&style=for-the-badge" alt="rpadhiary73295" /></a> </p>
+<p align="left"> <a href="https://twitter.com/R_Padhiary" target="blank"><img src="https://img.shields.io/twitter/follow/rpadhiary73295?logo=twitter&style=for-the-badge" alt="R_Padhiary" /></a> </p>
 
 - 🌱 I’m currently learning **Python, AI/ML, Data Structures and Algorithms**
 
@@ -45,5 +45,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rushalipadhiary&show_icons=true&locale=en" alt="rushalipadhiary" /></p>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=RushaliPadhiary&theme=tokyonight" alt="GitHub Streak" /></a>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rushalipadhiary&" alt="rushalipadhiary" /></p>
 <img src="https://streak-stats.demolab.com?user=RushaliPadhiary&theme=tokyonight" width="400">
