@@ -45,3 +45,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rushalipadhiary&show_icons=true&locale=en&theme=radical" alt="rushalipadhiary" /></p>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=RushaliPadhiary&theme=radical" alt="GitHub Streak" /></a>
 
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
