@@ -7,8 +7,6 @@
 
 - 💬 I love anything to do with Full-stack development, Artificial Intelligence and Cybersecurity
 
-- 📫 How to reach me **padhiary.rushali@gmail.com**
-
 - ⚡ Fun fact **‘Typewriter’ is the longest word you can type on a QWERTY keyboard, using only one of the rows on your keyboard.**
 
 <h3 align="left">Connect with me:</h3>
