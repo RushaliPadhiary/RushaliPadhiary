@@ -1,7 +1,7 @@
 ![Header](https://i.pinimg.com/originals/7d/01/94/7d0194eaf9d1ad0bcad447ff6e0e09ee.gif)
 
 <h1 align="center">Hewwo Cuties, I'm Rushali! <img src="https://i.pinimg.com/736x/62/f2/b5/62f2b5f2c70db628f9228a4ec794b852.jpg" alt="Flower" style="width: 40px; height: 40px; vertical-align: middle;" />🎀</h1>
-<h3 align="center">Programmer | Tech Enthusiast | Programmer</h3>
+<h3 align="center">Programmer | Tech Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rushalipadhiary&label=Profile%20views&color=0e75b6&style=flat" alt="rushalipadhiary" />
